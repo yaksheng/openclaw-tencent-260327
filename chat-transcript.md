@@ -178,10 +178,7 @@ If you want, next I can:
 Upscale the video to 2K, and change the orienation of the video to landscape
 
 
-[21:54:03] Assistant:
-我直接用 tencent-mps 重做一版横屏 2K。比先放大旧视频更靠谱，因为生成端能直接按目标比例出图。
-
-我补一个签名下载链接给你。
+[21:54:03] Assistant: [REDACTED]
 
 
 Done.
